@@ -4,7 +4,7 @@ This script reads in a tab-separated data file (`.tsv`) containing point-based l
 
 ---
 
-# 🗂 Input Files
+# Input Files
 
 Ensure all of the following files are located in the **same folder as the script**:
 
