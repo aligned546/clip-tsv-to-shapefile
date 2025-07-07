@@ -13,7 +13,7 @@ Ensure all of the following files are located in the **same folder as the script
 
 ---
 
-# 📤 Output
+# Output
 
 - `clipped.csv` — A CSV file containing rows from the input TSV whose coordinates fall within the ROI shapefile, limited to selected columns.
 
